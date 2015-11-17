@@ -31,7 +31,6 @@
 				font-size: 96px;
 				margin-bottom: 40px;
 			}
-
 			.quote {
 				font-size: 24px;
 			}
